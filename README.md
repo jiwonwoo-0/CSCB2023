@@ -17,11 +17,14 @@ In class, we discussed a recent droplet-based technology for single-cell genomic
 
 - Submit all code that you used for the project in a zipped folder. At the top level of the folder, include a README file that explains how you set up your computing environment and what each file or folder in your repo is for. For instance, "On a Dell laptop running Ubuntu 20.04, we installed python 3.9, scanpy version 17.6, and matplotlib version 3.14159. The folder `breast_comparison` contains our code for comparing the 10X vs PIP-seq breast data and the folder `barnyard` contains our code for analyzing doublets."
 - Submit a 5 to 15 page written report explaining your approach for each component and your findings. Include figures to support key claims: for instance, "At high depths, PIP-seq is roughly 60% as efficient as 10X" should be supported by a figure. It's okay to copy-paste relevant figures from the PIP-seq paper or other sources as long as you clearly describe the source and the methods.
+- Submit a 5 - 10 minute video summary of your findings. Video summaries should assume we know the problem, and do not have to spend time explaining the background. 
 
 ### Administrative aspects and grading
 
-- This project will be done by teams made up of 2-3 students. Please form a team with students registered in the same section as you. 
+- This project will be done by teams made up of 2-3 students. Please form a team with students registered in the same section as you.
+- Link for form teams: [Sign Up Sheet](https://docs.google.com/spreadsheets/d/1vPozvjjv46b1W3qAWPoNLTwIRprNR8MIuqSTa8vWIu0/edit?usp=sharing)  
 - If you are in 447 instead of 647, you may skip component 5.
+- Teams with members in both 447 and 647 will be treated as 647. 
 - If you have a team with only 2 people instead of 3, you may skip component 4.
 - The project is due May 12. No late days are allowed.
 - TA's will announce office hours to help people get support during the project. 
